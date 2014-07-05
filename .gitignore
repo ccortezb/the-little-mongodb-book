@@ -3,3 +3,7 @@
 *.pdf
 *.epub
 *.mobi
+
+# Others
+
+*.log
