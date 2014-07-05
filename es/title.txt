@@ -1,2 +1,2 @@
-% The Little MongoDB Book
+% El Pequeño Libro de MongoDB
 % Karl Seguin
